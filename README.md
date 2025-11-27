@@ -13,7 +13,7 @@
 
 ## 📦 Databases:
 
- [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark)](https://github.com/veloxzen)
+ [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,rabbitmq&theme=dark)](https://github.com/veloxzen)
  
 ## 🔧 OS :
 
