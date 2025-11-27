@@ -7,11 +7,11 @@
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,aws,docker,dotnet,discord&theme=dark)](https://github.com/veloxzen)
+  [![tools](https://skillicons.dev/icons?i=git,visualstudio,gitlab,github,figma,vscode,idea,aws,docker,dotnet,discord&theme=dark)](https://github.com/veloxzen)
 
 ## 📦 Databases:
 
- [![databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis&theme=dark)](https://github.com/veloxzen)
+ [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark)](https://github.com/veloxzen)
 ## 🔧 OS :
 
  ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
