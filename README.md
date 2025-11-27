@@ -3,4 +3,4 @@
 
 ## 🌍 Programming languages:
 
-  [![proglang](https://skillicons.dev/icons?i=js,html,css,java&theme=dark)](https://github.com/hellokenzo/)
+  [![proglang](https://skillicons.dev/icons?i=java,c#,c++,python,html,css&theme=dark)](https://github.com/hellokenzo/)
