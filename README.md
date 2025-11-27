@@ -1,6 +1,19 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellov3an&label=Profile%20views&color=0e75b6&style=flat" alt="hellokenzo" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veloxzen&label=Profile%20views&color=0e75b6&style=flat" alt="veloxzen" /> 
 
 
 ## 🌍 Programming languages:
 
-  [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,js,python,html,css&theme=dark)](https://github.com/hellokenzo/)
+  [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,js,python,html,css&theme=dark)](https://github.com/veloxzen/)
+
+## ⚙️ Tools:
+
+  [![tools](https://skillicons.dev/icons?i=git,github,figma,vscode,idea,aws,docker,dotnet,discord&theme=dark)](https://github.com/veloxzen)
+
+## 📦 Databases:
+
+ [![databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis&theme=dark)](https://github.com/veloxzen)
+## 🔧 OS :
+
+ ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+ ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+ ![MacOS](https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=ios&logoColor=white)
