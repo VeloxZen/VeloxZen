@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veloxzen&label=Profile%20views&color=0e75b6&style=flat" alt="veloxzen" /> 
 
+<h1 align="center">Hi 👋, I'm VeloxZen</h1>
+<h3 align="center">Junior DevOps</h3>
 
 ## 🌍 Programming languages:
 
@@ -12,8 +14,7 @@
 ## 📦 Databases:
 
  [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark)](https://github.com/veloxzen)
+ 
 ## 🔧 OS :
 
- ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
- ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
- ![MacOS](https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+ [![os](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://github.com/veloxzen)
