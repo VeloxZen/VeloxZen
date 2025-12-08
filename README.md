@@ -3,9 +3,19 @@
 <h1 align="center">Hi 👋, I'm VeloxZen</h1>
 <h3 align="center">Junior DevOps</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg/">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg" alt="snake">
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌍 Programming languages:
 
-  [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,js,python,html,css&theme=dark)](https://github.com/veloxzen/)
+  [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,python,html,css&theme=dark)](https://github.com/veloxzen/)
 
 ## ⚙️ Tools:
 
@@ -13,8 +23,11 @@
 
 ## 📦 Databases:
 
- [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,rabbitmq&theme=dark)](https://github.com/veloxzen)
+ [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark)](https://github.com/veloxzen)
  
 ## 🔧 OS :
 
  [![os](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://github.com/veloxzen)
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
