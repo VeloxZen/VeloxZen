@@ -45,3 +45,4 @@
 
  
 
+![VeloxZen GitHub stats](https://github-readme-stats.vercel.app/api?username=veloxzen&theme=dark&show_icons=true)
