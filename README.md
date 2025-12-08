@@ -17,17 +17,28 @@
 
   [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,python,html,css&theme=dark)](https://github.com/veloxzen/)
 
-## ⚙️ Tools:
+## 💻 Devops
 
-  [![tools](https://skillicons.dev/icons?i=git,visualstudio,gitlab,github,figma,vscode,idea,aws,docker,dotnet,discord&theme=dark)](https://github.com/veloxzen)
+  [![devops](https://skillicons.dev/icons?i=dockergit,github,gitlab&theme=dark)](https://github.com/veloxzen)
 
 ## 📦 Databases:
 
  [![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark)](https://github.com/veloxzen)
+
+## ⚙️ Tools:
+
+  [![tools](https://skillicons.dev/icons?i=visualstudio,vscode,figma,idea,aws,docker,dotnet&theme=dark)](https://github.com/veloxzen)
+
  
 ## 🔧 OS :
 
  [![os](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://github.com/veloxzen)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ ## 📩 Contact ME
+ 
+ [![discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://github.com/veloxzen)
+
+ 
 
