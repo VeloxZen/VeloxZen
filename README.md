@@ -20,7 +20,7 @@
 
 ## 💻 Devops
 
-  [![devops](https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark)](https://github.com/veloxzen)
+  [![devops](https://skillicons.dev/icons?i=docker,aws,git,github,gitlab&theme=dark)](https://github.com/veloxzen)
 
 ## 📦 Databases:
 
@@ -28,7 +28,7 @@
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=visualstudio,vscode,figma,idea,aws,docker,dotnet&theme=dark)](https://github.com/veloxzen)
+  [![tools](https://skillicons.dev/icons?i=visualstudio,vscode,figma,idea,dotnet&theme=dark)](https://github.com/veloxzen)
 
  
 ## 🔧 OS :
