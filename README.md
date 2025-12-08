@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm VeloxZen</h1>
 <h3 align="center">Junior DevOps</h3>
+<h3 align="center">MinecraftPlayer</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -19,7 +20,7 @@
 
 ## 💻 Devops
 
-  [![devops](https://skillicons.dev/icons?i=dockergit,github,gitlab&theme=dark)](https://github.com/veloxzen)
+  [![devops](https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark)](https://github.com/veloxzen)
 
 ## 📦 Databases:
 
@@ -39,6 +40,8 @@
  ## 📩 Contact ME
  
  [![discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://github.com/veloxzen)
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  
 
