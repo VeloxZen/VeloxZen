@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm VeloxZen</h1>
 <h3 align="center">Junior DevOps</h3>
-<h3 align="center">Minecraft Player</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌍 Programming languages:
 
-  [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,python,html,css,php&theme=dark)](https://github.com/veloxzen/)
+  [![proglang](https://skillicons.dev/icons?i=java,cs,cpp,python,html,css,php,lua&theme=dark)](https://github.com/veloxzen/)
 
 ## 💻 DevOps
 
